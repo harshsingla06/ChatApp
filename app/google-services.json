@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780000608202",
+    "project_id": "twizzy-a40cc",
+    "storage_bucket": "twizzy-a40cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780000608202:android:78295c0a4e6cf9b7a45933",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780000608202-pd08fsl28ikb8v1bp8pq6k0g0g356uo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFNWAWQVtivlTUaUfBcltXqg6MUYgN4eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780000608202-pd08fsl28ikb8v1bp8pq6k0g0g356uo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
